@@ -1,0 +1,32 @@
+-------------------------------------Read Me-------------------------------------
+#####################################################################
+Source Code:
+
+Filenames for different tasks
+
+	Task 1   ===== task-1.py
+	Task 2 A ===== task-2a.py
+	Task 2 B ===== task-2b.py
+	Task 3   ===== task-3.py
+
+   Execute each file with the command: python filneame.py
+
+####################################################################
+
+Output Files:
+
+Filenames for the output files for the above tasks.
+
+	Task 1(E) ===== Output-task-1.txt
+	Task 2 A  ===== Output-task-2a.txt
+	Task 2 B  ===== Output-task-2b.txt
+	Task 3    ===== Output-task-3.txt
+
+#####################################################################
+
+Explanation Files:
+
+	Task 2 C ===== task-2c-explanation.txt
+	Task 3   ===== task-3-explanation.txt
+
+#####################################################################

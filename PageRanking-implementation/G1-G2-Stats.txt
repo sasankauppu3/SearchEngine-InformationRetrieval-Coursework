@@ -1,0 +1,17 @@
+############################# STATISTICS #############################
+
+############# G1 ##############
+
+Number of Sinks: 18
+Number of Sources: 0
+Total pages = 1000
+Proportion of Sinks = 0.018
+Proportion of Sources = 0.0
+
+############# G2 ##############
+
+Number of Sinks: 66175
+Number of Sources: 14350
+Total pages = 183811
+Proportion of Sinks = 0.360016538727
+Proportion of Sources = 0.0780693212049

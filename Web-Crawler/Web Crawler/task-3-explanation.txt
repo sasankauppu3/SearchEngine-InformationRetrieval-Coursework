@@ -1,0 +1,14 @@
+------------------------------Merging the urls obtained------------------------------
+
+List 1 = Urls obtained from task1 code (seed = https://en.wikipedia.org/wiki/Sustainable_energy)
+
+List2 = Urls obtained from task3 code (seed = https://en.wikipedia.org/wiki/Solar_power)
+
+We can desing an algorithm such as the one described below:
+Step 1: Pop the first element of List1 and add the element to Result if its not present
+Step 2: If Result max length is met, exit  
+Step 3: Pop the first element of List2 and add the element to Result if its not present
+Step 4: If Result max length is met, exit
+Step 5: Repeat from Step1
+
+Note that we are popping the first element in each list to preserve the shallow links importance achieved by BFS Crawlers in task 1 and 3

@@ -1,0 +1,55 @@
+----------------------Breadth First Crawling (BFS)----------------------
+
+In Breadth First Search(BFS) crawling, we traverse the shallow links first. We use queue structure to implement this techniques.
+
+Below is the detailed algorithm:
+	Step 0: Maintain a queue and a visited array
+	Step 1: Push the seed url into the queue
+	Step 2: Pop one element from the queue and visit the page related to the url and get all the links from that page
+	Step 3: Remove the duplicates and visited links from the above list and store the obtained links in queue until url limit(1000) not met
+	Step 4: Repeat Step 2
+
+
+----------------------Depth First Crawling (DFS)----------------------
+
+In Depth First Search(DFS) Crawling, we traverse the shallow links first. We use stack structure to implement this techniques.
+
+Below is the detailed algorithm:
+	Step 0: Maintain a stack and a visited array
+	Step 1: Push the seed url into the stack
+	Step 2: Pop one element from the stack and visit the page related to the url and get all the links from that page
+	Step 3: Remove the duplicates and visited links from the above list and store the obtained links in stack until url limit(1000) not met
+	Step 4: Repeat Step 2
+
+
+-------------------------------Comaparision-------------------------------
+
+BFS Crawler was able to return 1000 urls, since the links which are unique are crawled shallower, duplicate links are discarded only at deeper level.
+
+Where as DFS Crawler returned only 679 urls. Since DFS visits deeper nodes first, it has the tendency to discard a link in shallow depth if it is already visited. 
+
+
+---------------------------Comaparing top 5 Urls---------------------------
+
+First 5 BFS Crawler links:
+
+Seed Url -  0 https://en.wikipedia.org/wiki/Sustainable_energy
+	    1 https://en.wikipedia.org/wiki/Passive_solar_building_design
+       	    2 https://en.wikipedia.org/wiki/Solar_energy
+	    3 https://en.wikipedia.org/wiki/Solar_heating
+	    4 https://en.wikipedia.org/wiki/Solar_photovoltaics
+	    5 https://en.wikipedia.org/wiki/Solar_thermal
+
+
+First 5 DFS Crawler links:
+
+Seed Url -  0 https://en.wikipedia.org/wiki/Sustainable_energy
+	    1 https://en.wikipedia.org/wiki/Passive_solar_building_design
+	    2 https://en.wikipedia.org/wiki/Solar_energy
+	    3 https://en.wikipedia.org/wiki/Solar_Energy_(journal)
+	    4 https://en.wikipedia.org/wiki/Solar_heating
+	    5 https://en.wikipedia.org/wiki/International_Solar_Energy_Society
+
+As we can see initially the links are similar in BFS and DFS crawler but as we progressed DFS starts crawling deeper where as BFS crawls shallow and more differences are observed on how the urls are ordered. 
+
+

@@ -1,0 +1,8 @@
+Perplexity for the iteration: 1 is: 645.355401058
+Perplexity for the iteration: 2 is: 662.037739815
+Perplexity for the iteration: 3 is: 652.898794692
+Perplexity for the iteration: 4 is: 651.09161335
+Perplexity for the iteration: 5 is: 650.451668022
+Perplexity for the iteration: 6 is: 650.41294412
+Perplexity for the iteration: 7 is: 650.507106236
+Perplexity for the iteration: 8 is: 650.620437042
