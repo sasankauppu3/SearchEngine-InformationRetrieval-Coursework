@@ -1,0 +1,4 @@
+number restricted partitions algorithm 262 a1
+cacm august 1965
+mckay
+ca650805 jb march 6 1978 8:26 pm

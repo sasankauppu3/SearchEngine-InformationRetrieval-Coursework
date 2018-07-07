@@ -1,0 +1,17 @@
+algorithms finding fundamental set
+cycles undirected linear graph
+adjacency matrix graph algorithm
+presented paper finds spanning
+tree constructs set fundamental cycles
+algorithm slower algorithm presented
+welch ratio 3 number nodes
+requires storage graphs large
+number nodes edges storage limited
+algorithm superior welch
+graphs small machine storage large
+welch algorithm superior timing estimates
+storage requirements methods presented
+cacm december 1967
+gotlieb
+corneil
+ca671204 jb february 26 19782:35 pm

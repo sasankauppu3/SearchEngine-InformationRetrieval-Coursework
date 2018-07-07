@@ -1,0 +1,4 @@
+approximation curves line segments dynamic programming
+cacm june 1961
+bellman
+ca610608 jb march 16 1978 10:31 pm

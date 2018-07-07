@@ -1,0 +1,17 @@
+computer generation gamma random variables
+method generating random variables
+gamma distribution nonintegral shape
+parameter proposed method similar
+methods recently wallace fishman
+compared fishman ahrens dieter methods
+core storage requirements programming
+effort method similar fishman
+method proposed method
+fishman method 1 2 faster fishman
+method 3 19 proposed
+method simpler ahrens dieter method faster 8
+cacm 1978
+tadikamalla
+gamma variables rejection method computer methods
+5 5 8 1
+ca780509 dh february 26 1979 1:10 pm

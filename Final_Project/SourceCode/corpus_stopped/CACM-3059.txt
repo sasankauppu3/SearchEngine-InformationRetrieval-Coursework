@@ -1,0 +1,23 @@
+models parallel processing programs:
+application cpu:i o:i overlap
+approximate queueing models internal parallel
+processing individual programs multiprogrammed
+system developed paper solution technique
+developed network decomposition
+models formulated terms cpu:i o:i overlap
+applied analysis problems
+percentage performance improvement cpu:i
+overlap found greatest systems
+approximate cpu:i utilization balance
+low degrees multiprogramming percentage
+improvement o:i overlap found greatest
+systemtems system
+utilized cpu
+cacm october 1978
+towsley
+chandy
+browne
+multiprogramming parallel processing queueing
+network models multiprocessing computation
+4 32 8 1
+ca781002 dh january 29 1979 6:23 pm
