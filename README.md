@@ -1,3 +1,4 @@
-# SearchEngine-CS6200
-An efficient search engine from crawlers to algorithms such as Page Rank, BM25, Tf-Idf alongside query expansion and pseudo relevance feedback techniques.
-Check the subsequent folders for different implementations
+## SearchEngine. Check the subsequent folders for different implementations
+- Implemented the backend of a text-based search engine using Python, Beautiful Soup, Java, and Lucene.
+- Algorithms implemented for search engine include Page Rank, BM25, TF-IDF alongside query expansion and pseudo-relevance feedback techniques. 
+- The performance of the search engine has been proved efficient by scores measured during Mean Average Precision, Mean Reciprocal Ranking, Recall, and P@K.
